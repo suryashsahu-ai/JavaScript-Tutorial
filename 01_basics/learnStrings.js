@@ -18,6 +18,3 @@ console.log(stuname.charAt(0))
 console.log(stuname.at(5));
 console.log(stuname.anchor(linkdin="https://www.linkedin.com/in/suryash-sahu-0012ec211028/"))
 console.log(stuname.charCodeAt());// "S"ASCII number nikle ga 
-
-
-

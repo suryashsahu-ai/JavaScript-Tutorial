@@ -50,4 +50,4 @@ function calls(){
 }
 calls()
 console.log(typeof info)
-console.log(typeof calls)
+console.log(typeof calls);

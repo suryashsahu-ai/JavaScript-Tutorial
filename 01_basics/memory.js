@@ -23,4 +23,4 @@ let instragram=youtube;
 console.log("insta"+ instragram.subscriber);
 instragram.subscriber=400
 console.log("youtube=" + youtube.subscriber)
-console.log("instragram= "+ instragram.subscriber)
+console.log("instragram= "+ instragram.subscriber);
